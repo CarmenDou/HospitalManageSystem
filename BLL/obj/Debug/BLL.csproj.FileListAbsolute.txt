@@ -1,0 +1,27 @@
+E:\HospitalManage\BLL\bin\Debug\BLL.dll
+E:\HospitalManage\BLL\bin\Debug\BLL.pdb
+E:\HospitalManage\BLL\bin\Debug\DAL.dll
+E:\HospitalManage\BLL\bin\Debug\Model.dll
+E:\HospitalManage\BLL\bin\Debug\Model.pdb
+E:\HospitalManage\BLL\bin\Debug\DAL.pdb
+E:\HospitalManage\BLL\obj\Debug\ResolveAssemblyReference.cache
+E:\HospitalManage\BLL\obj\Debug\BLL.dll
+E:\HospitalManage\BLL\obj\Debug\BLL.pdb
+E:\学习资料\ASP.NET\医院管理系统\HospitalManage\BLL\bin\Debug\BLL.dll
+E:\学习资料\ASP.NET\医院管理系统\HospitalManage\BLL\bin\Debug\BLL.pdb
+E:\学习资料\ASP.NET\医院管理系统\HospitalManage\BLL\bin\Debug\DAL.dll
+E:\学习资料\ASP.NET\医院管理系统\HospitalManage\BLL\bin\Debug\Model.dll
+E:\学习资料\ASP.NET\医院管理系统\HospitalManage\BLL\bin\Debug\Model.pdb
+E:\学习资料\ASP.NET\医院管理系统\HospitalManage\BLL\bin\Debug\DAL.pdb
+E:\学习资料\ASP.NET\医院管理系统\HospitalManage\BLL\obj\Debug\ResolveAssemblyReference.cache
+E:\学习资料\ASP.NET\医院管理系统\HospitalManage\BLL\obj\Debug\BLL.dll
+E:\学习资料\ASP.NET\医院管理系统\HospitalManage\BLL\obj\Debug\BLL.pdb
+C:\Users\asus\Desktop\医院管理系统\医院管理系统\HospitalManage - 5.3\BLL\bin\Debug\BLL.dll
+C:\Users\asus\Desktop\医院管理系统\医院管理系统\HospitalManage - 5.3\BLL\bin\Debug\BLL.pdb
+C:\Users\asus\Desktop\医院管理系统\医院管理系统\HospitalManage - 5.3\BLL\bin\Debug\DAL.dll
+C:\Users\asus\Desktop\医院管理系统\医院管理系统\HospitalManage - 5.3\BLL\bin\Debug\Model.dll
+C:\Users\asus\Desktop\医院管理系统\医院管理系统\HospitalManage - 5.3\BLL\bin\Debug\DAL.pdb
+C:\Users\asus\Desktop\医院管理系统\医院管理系统\HospitalManage - 5.3\BLL\bin\Debug\Model.pdb
+C:\Users\asus\Desktop\医院管理系统\医院管理系统\HospitalManage - 5.3\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\asus\Desktop\医院管理系统\医院管理系统\HospitalManage - 5.3\BLL\obj\Debug\BLL.dll
+C:\Users\asus\Desktop\医院管理系统\医院管理系统\HospitalManage - 5.3\BLL\obj\Debug\BLL.pdb

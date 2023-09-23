@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Model", "Model\Model.csproj", "{6F64A324-C1B9-4BF8-8D99-652F82132488}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{147A0167-235D-41A5-9C17-5F052F99DB2B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BLL", "BLL\BLL.csproj", "{081B14C5-6B15-4211-85D9-79EB0EACC8AF}"
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Web_HospitalManage", "Web_HospitalManage\", "{A98AEB2B-EB42-4BD2-8EC5-F38BE3013DDE}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv3.5"
+		ProjectReferences = "{081B14C5-6B15-4211-85D9-79EB0EACC8AF}|BLL.dll;{147A0167-235D-41A5-9C17-5F052F99DB2B}|DAL.dll;{6F64A324-C1B9-4BF8-8D99-652F82132488}|Model.dll;"
+		Debug.AspNetCompiler.VirtualPath = "/Web_HospitalManage"
+		Debug.AspNetCompiler.PhysicalPath = "Web_HospitalManage\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\Web_HospitalManage\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/Web_HospitalManage"
+		Release.AspNetCompiler.PhysicalPath = "Web_HospitalManage\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\Web_HospitalManage\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "3236"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6F64A324-C1B9-4BF8-8D99-652F82132488}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F64A324-C1B9-4BF8-8D99-652F82132488}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F64A324-C1B9-4BF8-8D99-652F82132488}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F64A324-C1B9-4BF8-8D99-652F82132488}.Release|Any CPU.Build.0 = Release|Any CPU
+		{147A0167-235D-41A5-9C17-5F052F99DB2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{147A0167-235D-41A5-9C17-5F052F99DB2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{147A0167-235D-41A5-9C17-5F052F99DB2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{147A0167-235D-41A5-9C17-5F052F99DB2B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{081B14C5-6B15-4211-85D9-79EB0EACC8AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{081B14C5-6B15-4211-85D9-79EB0EACC8AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{081B14C5-6B15-4211-85D9-79EB0EACC8AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{081B14C5-6B15-4211-85D9-79EB0EACC8AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A98AEB2B-EB42-4BD2-8EC5-F38BE3013DDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A98AEB2B-EB42-4BD2-8EC5-F38BE3013DDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A98AEB2B-EB42-4BD2-8EC5-F38BE3013DDE}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{A98AEB2B-EB42-4BD2-8EC5-F38BE3013DDE}.Release|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

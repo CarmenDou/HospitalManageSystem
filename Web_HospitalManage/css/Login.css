@@ -1,0 +1,24 @@
+BODY {
+	FONT-FAMILY: ËÎÌו, Arial, Helvetica, sans-serif; BACKGROUND: url(../images/LoginBg.jpg) #669acc repeat-x left top; FONT-SIZE: 12px
+}
+.Sizer {
+	MARGIN: 114px auto 0px; WIDTH: 656px; BACKGROUND: url(../images/LoginBg2.jpg); HEIGHT: 364px; OVERFLOW: hidden
+}
+TABLE {
+	MARGIN-TOP: 60px; WIDTH: 400px; MARGIN-LEFT: 120px
+}
+TABLE THEAD {
+	TEXT-ALIGN: left; LINE-HEIGHT: 40px; TEXT-INDENT: 50px; HEIGHT: 40px; FONT-WEIGHT: bold
+}
+TABLE TH {
+	TEXT-ALIGN: right; LINE-HEIGHT: 35px; WIDTH: 100px; HEIGHT: 35px; FONT-WEIGHT: normal
+}
+TABLE TD SPAN {
+	LINE-HEIGHT: 30px; CURSOR: pointer; TEXT-DECORATION: underline
+}
+.txt {
+	LINE-HEIGHT: 16px; WIDTH: 200px; HEIGHT: 16px
+}
+.cktxt {
+	LINE-HEIGHT: 16px; WIDTH: 100px; HEIGHT: 16px
+}
